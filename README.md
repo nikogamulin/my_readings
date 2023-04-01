@@ -3,7 +3,7 @@ This repository contains an example of applying topic modeling on notes from Neo
 
 ## Word Cloud Visualization
 
-![word cloud visualization](word clouds/word_cloud_1.png?raw=true "Title")
+![word cloud visualization](word%20clouds/word_cloud_1.png?raw=true "Title")
 
 A word cloud is a visual representation of text data where the size of each word indicates its frequency or importance in the document. It helps in identifying key themes and patterns in the text.
 
