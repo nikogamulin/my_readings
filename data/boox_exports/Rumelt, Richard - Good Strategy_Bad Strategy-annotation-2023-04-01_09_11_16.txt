@@ -1,0 +1,158 @@
+Reading Notes | <<Rumelt, Richard - Good Strategy_Bad Strategy>>
+Rumelt, Richard
+
+Time：2023-03-18 18:49
+【Original Text】A leader’s most important responsibility is identifying the biggest challenges to forward progress and devising a coherent approach to overcoming them.
+【Annotations】
+【Page Number】17
+-------------------
+
+Time：2023-03-18 19:00
+【Original Text】The kernel of a strategy contains three elements: a diagnosis, a guiding policy, and coherent action
+【Annotations】
+【Page Number】22
+-------------------
+
+Time：2023-03-19 08:07
+【Original Text】The second natural advantage of many good strategies comes from insight into new sources of strength and weakness
+【Annotations】
+【Page Number】37
+-------------------
+
+Time：2023-03-19 08:10
+【Original Text】The story teaches us that our preconceived ideas of strength and weakness may be unsound
+【Annotations】
+【Page Number】38
+-------------------
+
+Time：2023-03-19 08:40
+【Original Text】 Bad strategy is long on goals and short on policy or action
+【Annotations】
+【Page Number】53
+-------------------
+
+Time：2023-03-19 09:54
+【Original Text】To help clarify this distinction it is helpful to use the word “goal” to express overall values and desires and to use the word “objective” to denote specific operational targets. Thus, the United States may have “goals” of freedom, justice, peace, security, and happiness. It is strategy which transforms these vague overall goals into a coherent set of actionable objectives—defeat the Taliban and rebuild a decaying infrastructure. A leader’s most important job is creating and constantly adjusting this strategic bridge between goals and objectives
+【Annotations】
+【Page Number】69
+-------------------
+
+Time：2023-03-21 07:28
+【Original Text】Without action, the world would still be an idea.”
+【Annotations】
+【Page Number】107
+-------------------
+
+Time：2023-03-22 07:10
+【Original Text】In very general terms, a good strategy works by harnessing power and applying it where it will have the greatest effect. In the short term, this may mean attacking a problem or rival with adroit combinations of policy, actions, and resources. In the longer term, it may involve cleverly using policies and resource commitments to develop capabilities that will be of value in future contests. In either case, a “good strategy” is an approach that magnifies the effectiveness of actions by finding and using sources of power
+【Annotations】
+【Page Number】115
+-------------------
+
+Time：2023-03-22 08:37
+【Original Text】The lunar surface Phyllis described was hard and grainy, with slopes of no more than about fifteen degrees, scattered small stones, and boulders no larger than about two feet across spaced here and there. Looking at this specification for the first time, I was amazed. “Phyllis,” I said, “this looks a lot like the Southwestern desert.”“Yes, doesn’t it?” she said with a smile.“But,” I complained, “you really don’t know what the moon is like. Why write a spec saying it is like the local desert?”“This is what the smoother parts of the earth are like, so it is probably a pretty good guess as to what we’ll find on the moon if we stay away from the mountains.”“But, you really have no idea what the surface of the moon is like! It could be powder, or jagged needles.…”“Look,” she said, “the engineers can’t work without a specification. If it turns out to be a lot more difficult than this, we aren’t going to be spending much time on the moon anyway.”Her lunar specification wasn’t the truth—the truth was that we didn’t know. It was a strategically chosen proximate objective—one the engineers knew how to tackle, so it helped speed the project along
+【Annotations】
+【Page Number】129
+-------------------
+
+Time：2023-03-22 08:39
+【Original Text】Many leaders fail badly at this responsibility, announcing ambitious goals without resolving a good chunk of ambiguity about the specific obstacles to be overcome. To take responsibility is more than a willingness to accept the blame. It is setting proximate objectives and handing the organization a problem it can actually solve.
+【Annotations】
+【Page Number】131
+-------------------
+
+Time：2023-03-23 07:20
+【Original Text】A design-type strategy is an adroit configuration of resources and actions that yields an advantage in a challenging situation. Given a set bundle of resources, the greater the competitive challenge, the greater the need for the clever, tight integration of resources and actions. Given a set level of challenge, higher-quality resources lessen the need for the tight integration of resources and actions.
+【Annotations】
+【Page Number】156
+-------------------
+Chapter 13 Using Dynamics
+Time：2023-03-25 16:07
+【Original Text】military
+【Annotations】
+【Page Number】203
+-------------------
+Chapter 13 Using Dynamics
+Time：2023-03-25 16:21
+【Original Text】After a wave of change has passed, it is easy to mark its effects, but by then it is too late to take advantage of its surge or to escape its scour. Therefore, seek to perceive and deal with a wave of change in its early stages of development.
+【Annotations】
+【Page Number】205
+-------------------
+
+Time：2023-03-25 17:29
+【Original Text】Understanding the inertia of rivals may be just as vital as understanding your own strengths
+【Annotations】
+【Page Number】228
+-------------------
+Chapter 14 Inertia and Entropy
+Time：2023-03-25 17:33
+【Original Text】Organizational inertia generally falls into one of three categories: the inertia of routine, cultural inertia, and inertia by proxy
+【Annotations】
+【Page Number】229
+-------------------
+Chapter 14 Inertia and Entropy
+Time：2023-03-25 18:05
+【Original Text】Inertia by proxy disappears when the organization decides that adapting to changed circumstances is more important than hanging on to old profit streams
+【Annotations】
+【Page Number】240
+-------------------
+
+Time：2023-03-25 19:30
+【Original Text】Whenever you can assign profit or gain to individual products, outlets, areas, segments, or any other portion of the total, you can build a hump chart
+【Annotations】
+【Page Number】243
+-------------------
+
+Time：2023-03-25 20:12
+【Original Text】Many of the fundamental components of modern 3-D graphics technology were developed at the University of Utah as part of a stream of research initiated by Professors Ivan Sutherland and David Evans in the late 1960s. While other computer science programs were teaching high theory, the Utah program was focused on the practical challenge of rendering 3-D images and building flight simulators. The program produced an astounding number of computer graphics superstars, including John Warnock, founder of Adobe Systems; Nolan Bushnell, founder of Atari; Edwin Catmull, cofounder of Pixar; and Jim Clark, founder of both Silicon Graphics and Netscape
+【Annotations】3D origin - utah
+【Page Number】252
+-------------------
+
+Time：2023-03-26 12:59
+【Original Text】“The Science of Strategy,” explores the analogy between a strategy and a scientific hypothesis. Each is an inductive leap that must be subjected to both logical and empirical tests before its validity can be ascertained.
+【Annotations】
+【Page Number】265
+-------------------
+
+Time：2023-03-26 13:02
+【Original Text】Good strategy is built on functional knowledge about what works, what doesn’t, and why. Generally available functional knowledge is essential, but because it is available to all, it can rarely be decisive. The most precious functional knowledge is proprietary, available only to your organization
+【Annotations】Functional Knowledge
+【Page Number】267
+-------------------
+
+Time：2023-03-26 13:07
+【Original Text】Where does scientific knowledge come from? You know the process. A good scientist pushes to the edge of knowledge and then reaches beyond, forming a conjecture—a hypothesis—about how things work in that unknown territory. If the scientist avoids the edge, working with what is already well known and established, life will be comfortable, but there will be neither fame nor honor.In the same way, a good business strategy deals with the edge between the known and the unknown. Again, it is competition with others that pushes us to edges of knowledge. Only there are found the opportunities to keep ahead of rivals. There is no avoiding it. That uneasy sense of ambiguity you feel is real. It is the scent of opportunity.In science, you first test a new conjecture against known laws and experience. Is the new hypothesis contradicted by basic principles or by the results of past experiments? If the hypothesis survives that test, the scientist has to devise a real-world test—an experiment—to see how well the hypothesis stands up.Similarly, we test a new strategic insight against well-established principles and against our accumulated knowledge about the business. If it passes those hurdles, we are faced with trying it out and seeing what happens.Given that we are working on the edge, asking for a strategy that is guaranteed to work is like asking a scientist for a hypothesis that is guaranteed to be true—it is a dumb request. The problem of coming up with a good strategy has the same logical structure as the problem of coming up with a good scientific hypothesis. The key differences are that most scientific knowledge is broadly shared, whereas you are working with accumulated wisdom about your business and your industry that is unlike anyone else’s.A good strategy is, in the end, a hypothesis about what will work. Not a wild theory, but an educated judgment. And there isn’t anyone more educated about your businesses than the group in this room.
+【Annotations】Science - Business
+【Page Number】268
+-------------------
+
+Time：2023-03-26 13:13
+【Original Text】The presumption that all important knowledge is already known, or available through consultation with authorities, deadens innovation. It is this presumption that stifles change in traditional societies and blocks improvement in organizations and societies that come to believe that their way is the best way. To generate a strategy, one must put aside the comfort and security of pure deduction and launch into the murkier waters of induction, analogy, judgment, and insight.
+【Annotations】
+【Page Number】270
+-------------------
+
+Time：2023-03-26 14:36
+【Original Text】“There are lots of sausage-making tools being hawked for strategy work, but good ideas don’t come out of mechanical tools. Conceptual tools may help us get oriented, but, in the end, good ideas basically just pop into our heads. It’s called ‘insight.’”
+【Annotations】
+【Page Number】289
+-------------------
+
+Time：2023-03-26 14:50
+【Original Text】In strategy work, knowledge is necessary but not sufficient. There are many people with deep knowledge or experience who are poor at strategy. To guide your own thinking in strategy work, you must cultivate three essential skills or habits. First, you must have a variety of tools for fighting your own myopia and for guiding your own attention. Second, you must develop the ability to question your own judgment. If your reasoning cannot withstand a vigorous attack, your strategy cannot be expected to stand in the face of real competition. Third, you must cultivate the habit of making and recording judgments so that you can improve.
+【Annotations】Training the mind
+【Page Number】294
+-------------------
+
+Time：2023-03-26 20:29
+【Original Text】Good strategy grows out of an independent and careful assessment of the situation, harnessing individual insight to carefully crafted purpose. Bad strategy follows the crowd, substituting popular slogans for insights.Being independent without being eccentric and doubting without being a curmudgeon are some of the most difficult things a person can do
+【Annotations】
+【Page Number】303
+-------------------
+
+Time：2023-03-26 20:35
+【Original Text】The concept of cost is tricky. People talk as if products have costs, but that is shorthand easily leading to confusion. Choices, not products, have costs. The cost of choosing to make one more unit of a product is sometimes called marginal, or variable, cost. The cost (per unit) of choosing to produce at a fixed rate for a year is called average cost. The cost per unit of choosing to build a plant and produce at a fixed rate is called long-run average cost
+【Annotations】
+【Page Number】307
+-------------------
